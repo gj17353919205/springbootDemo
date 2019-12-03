@@ -32,5 +32,5 @@ public class AsyncTest {
 	public void asyncTwo() throws InterruptedException, ExecutionException {
 		System.err.println(asyncService.asyncTwo());
 	}
-	
+	/*提交测试*/
 }
